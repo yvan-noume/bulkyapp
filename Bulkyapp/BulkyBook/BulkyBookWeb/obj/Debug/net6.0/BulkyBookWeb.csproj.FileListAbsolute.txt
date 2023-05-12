@@ -1,0 +1,1707 @@
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/appsettings.Development.json
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/appsettings.json
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.staticwebassets.runtime.json
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.exe
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.deps.json
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.runtimeconfig.json
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.pdb
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.csproj.AssemblyReference.cache
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.AssemblyInfoInputs.cache
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.AssemblyInfo.cs
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.csproj.CoreCompileInputs.cache
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cache
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.RazorAssemblyInfo.cache
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.RazorAssemblyInfo.cs
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/staticwebassets.build.json
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/staticwebassets.development.json
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/scopedcss/bundle/BulkyBookWeb.styles.css
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/scopedcss/projectbundle/BulkyBookWeb.bundle.scp.css
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/refint/BulkyBookWeb.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.pdb
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.genruntimeconfig.cache
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/ref/BulkyBookWeb.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Azure.Core.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Azure.Identity.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Humanizer.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.CodeDom.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Text.Json.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.csproj.CopyComplete
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/MessagePack.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/MessagePack.Annotations.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Build.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Build.Framework.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.NET.StringTools.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.Common.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.Configuration.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.Frameworks.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.LibraryModel.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.Packaging.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.ProjectModel.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.Protocol.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.Versioning.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Composition.Convention.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Composition.Hosting.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Composition.Runtime.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Composition.TypedParts.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Reflection.MetadataLoadContext.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Server.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Web.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cors.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Features.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Results.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Identity.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Metadata.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Rewrite.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Session.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebSockets.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.CSharp.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Json.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Features.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Http.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Core.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Stores.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Console.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Debug.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.ObjectPool.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.WebEncoders.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.JSInterop.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Net.Http.Headers.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.VisualBasic.Core.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.VisualBasic.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Win32.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Win32.Registry.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/mscorlib.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/netstandard.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.AppContext.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Buffers.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Collections.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.DataAnnotations.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.EventBasedAsync.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.TypeConverter.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Configuration.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Console.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Core.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Data.Common.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Data.DataSetExtensions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Data.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.Contracts.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.Debug.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.DiagnosticSource.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.EventLog.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.FileVersionInfo.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.Process.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.StackTrace.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.Tools.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.TraceSource.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.Tracing.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Drawing.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Drawing.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Dynamic.Runtime.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Formats.Asn1.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Globalization.Calendars.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Globalization.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Globalization.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Compression.Brotli.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Compression.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Compression.FileSystem.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Compression.ZipFile.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.FileSystem.AccessControl.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.FileSystem.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.FileSystem.DriveInfo.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.FileSystem.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.FileSystem.Watcher.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.IsolatedStorage.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.MemoryMappedFiles.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Pipelines.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Pipes.AccessControl.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Pipes.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.UnmanagedMemoryStream.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Linq.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Linq.Expressions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Linq.Parallel.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Linq.Queryable.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Memory.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Http.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Http.Json.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.HttpListener.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Mail.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.NameResolution.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.NetworkInformation.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Ping.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Requests.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Security.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.ServicePoint.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Sockets.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.WebClient.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.WebHeaderCollection.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.WebProxy.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.WebSockets.Client.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.WebSockets.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Numerics.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Numerics.Vectors.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ObjectModel.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.DispatchProxy.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Emit.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Emit.ILGeneration.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Emit.Lightweight.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Metadata.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.TypeExtensions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Resources.Reader.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Resources.ResourceManager.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Resources.Writer.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.VisualC.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Handles.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.InteropServices.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Intrinsics.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Loader.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Numerics.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Serialization.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Serialization.Formatters.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Serialization.Json.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Serialization.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Serialization.Xml.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.AccessControl.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Claims.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Algorithms.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Cng.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Csp.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Encoding.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.OpenSsl.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.X509Certificates.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Xml.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Principal.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Principal.Windows.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.SecureString.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ServiceModel.Web.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ServiceProcess.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Text.Encoding.CodePages.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Text.Encoding.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Text.Encoding.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Text.RegularExpressions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Channels.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Overlapped.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Tasks.Dataflow.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Tasks.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Tasks.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Tasks.Parallel.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Thread.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.ThreadPool.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Timer.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Transactions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Transactions.Local.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ValueTuple.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Web.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Web.HttpUtility.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Windows.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.Linq.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.ReaderWriter.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.Serialization.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.XDocument.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.XmlDocument.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.XmlSerializer.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.XPath.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/WindowsBase.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/staticwebassets/msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/staticwebassets/msbuild.build.BulkyBookWeb.props
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BulkyBookWeb.props
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BulkyBookWeb.props
+C:/Yvan/VS Projects/C# Projects/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/appsettings.Development.json
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/appsettings.json
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.staticwebassets.runtime.json
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.exe
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.deps.json
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.runtimeconfig.json
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.pdb
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Server.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Web.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cors.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Features.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Results.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Identity.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Metadata.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Rewrite.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Session.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebSockets.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.CSharp.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Json.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Features.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Http.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Core.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Stores.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Console.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Debug.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.ObjectPool.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.WebEncoders.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.JSInterop.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Net.Http.Headers.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.VisualBasic.Core.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.VisualBasic.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Win32.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Win32.Registry.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/mscorlib.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/netstandard.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.AppContext.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Buffers.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Collections.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.DataAnnotations.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.EventBasedAsync.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.TypeConverter.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Configuration.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Console.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Core.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Data.Common.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Data.DataSetExtensions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Data.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.Contracts.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.Debug.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.DiagnosticSource.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.EventLog.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.FileVersionInfo.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.Process.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.StackTrace.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.Tools.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.TraceSource.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.Tracing.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Drawing.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Drawing.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Dynamic.Runtime.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Formats.Asn1.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Globalization.Calendars.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Globalization.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Globalization.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Compression.Brotli.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Compression.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Compression.FileSystem.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Compression.ZipFile.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.FileSystem.AccessControl.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.FileSystem.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.FileSystem.DriveInfo.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.FileSystem.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.FileSystem.Watcher.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.IsolatedStorage.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.MemoryMappedFiles.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Pipelines.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Pipes.AccessControl.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Pipes.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.UnmanagedMemoryStream.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Linq.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Linq.Expressions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Linq.Parallel.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Linq.Queryable.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Memory.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Http.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Http.Json.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.HttpListener.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Mail.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.NameResolution.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.NetworkInformation.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Ping.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Requests.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Security.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.ServicePoint.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Sockets.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.WebClient.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.WebHeaderCollection.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.WebProxy.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.WebSockets.Client.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.WebSockets.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Numerics.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Numerics.Vectors.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ObjectModel.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.DispatchProxy.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Emit.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Emit.ILGeneration.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Emit.Lightweight.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Metadata.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.TypeExtensions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Resources.Reader.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Resources.ResourceManager.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Resources.Writer.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.VisualC.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Handles.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.InteropServices.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Intrinsics.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Loader.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Numerics.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Serialization.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Serialization.Formatters.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Serialization.Json.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Serialization.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Serialization.Xml.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.AccessControl.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Claims.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Algorithms.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Cng.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Csp.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Encoding.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.OpenSsl.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.X509Certificates.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Xml.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Principal.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Principal.Windows.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.SecureString.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ServiceModel.Web.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ServiceProcess.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Text.Encoding.CodePages.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Text.Encoding.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Text.Encoding.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Text.RegularExpressions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Channels.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Overlapped.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Tasks.Dataflow.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Tasks.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Tasks.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Tasks.Parallel.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Thread.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.ThreadPool.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Timer.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Transactions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Transactions.Local.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.ValueTuple.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Web.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Web.HttpUtility.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Windows.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.Linq.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.ReaderWriter.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.Serialization.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.XDocument.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.XmlDocument.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.XmlSerializer.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.XPath.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/refs/WindowsBase.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Azure.Core.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Azure.Identity.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Humanizer.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/MessagePack.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/MessagePack.Annotations.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Build.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Build.Framework.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.NET.StringTools.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.Common.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.Configuration.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.Frameworks.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.LibraryModel.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.Packaging.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.ProjectModel.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.Protocol.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/NuGet.Versioning.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.CodeDom.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Composition.Convention.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Composition.Hosting.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Composition.Runtime.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Composition.TypedParts.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Reflection.MetadataLoadContext.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Text.Json.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.csproj.AssemblyReference.cache
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.AssemblyInfoInputs.cache
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.AssemblyInfo.cs
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.csproj.CoreCompileInputs.cache
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cache
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.RazorAssemblyInfo.cache
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.RazorAssemblyInfo.cs
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/staticwebassets/msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/staticwebassets/msbuild.build.BulkyBookWeb.props
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BulkyBookWeb.props
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BulkyBookWeb.props
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/staticwebassets.build.json
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/staticwebassets.development.json
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/scopedcss/bundle/BulkyBookWeb.styles.css
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/scopedcss/projectbundle/BulkyBookWeb.bundle.scp.css
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.csproj.CopyComplete
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/refint/BulkyBookWeb.dll
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.pdb
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.genruntimeconfig.cache
+C:/Yvan/VS Projects/C# Projects/Archive/BulkyBook/BulkyBookWeb/obj/Debug/net6.0/ref/BulkyBookWeb.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/appsettings.Development.json
+/app/BulkyBookWeb/bin/Debug/net6.0/appsettings.json
+/app/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.staticwebassets.runtime.json
+/app/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb
+/app/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.deps.json
+/app/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.runtimeconfig.json
+/app/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/BulkyBookWeb.pdb
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cors.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Identity.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Metadata.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Session.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.CSharp.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Features.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Http.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Core.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Console.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.ObjectPool.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Extensions.WebEncoders.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.JSInterop.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Net.Http.Headers.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.VisualBasic.Core.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.VisualBasic.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Win32.Primitives.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/Microsoft.Win32.Registry.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/mscorlib.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/netstandard.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.AppContext.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Buffers.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Collections.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.DataAnnotations.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.EventBasedAsync.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.Primitives.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.ComponentModel.TypeConverter.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Configuration.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Console.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Core.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Data.Common.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Data.DataSetExtensions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Data.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.Contracts.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.Debug.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.DiagnosticSource.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.EventLog.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.FileVersionInfo.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.Process.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.StackTrace.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.Tools.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.TraceSource.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Diagnostics.Tracing.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Drawing.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Drawing.Primitives.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Dynamic.Runtime.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Formats.Asn1.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Globalization.Calendars.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Globalization.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Globalization.Extensions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Compression.Brotli.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Compression.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Compression.FileSystem.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Compression.ZipFile.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.FileSystem.AccessControl.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.FileSystem.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.FileSystem.DriveInfo.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.FileSystem.Primitives.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.FileSystem.Watcher.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.IsolatedStorage.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.MemoryMappedFiles.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Pipelines.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Pipes.AccessControl.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.Pipes.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.IO.UnmanagedMemoryStream.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Linq.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Linq.Expressions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Linq.Parallel.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Linq.Queryable.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Memory.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Http.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Http.Json.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.HttpListener.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Mail.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.NameResolution.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.NetworkInformation.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Ping.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Primitives.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Requests.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Security.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.ServicePoint.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.Sockets.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.WebClient.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.WebHeaderCollection.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.WebProxy.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.WebSockets.Client.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Net.WebSockets.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Numerics.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Numerics.Vectors.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.ObjectModel.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.DispatchProxy.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Emit.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Emit.ILGeneration.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Emit.Lightweight.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Extensions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Metadata.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.Primitives.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Reflection.TypeExtensions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Resources.Reader.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Resources.ResourceManager.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Resources.Writer.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Extensions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Handles.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.InteropServices.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Intrinsics.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Loader.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Numerics.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Serialization.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Serialization.Formatters.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Serialization.Json.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Serialization.Primitives.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Runtime.Serialization.Xml.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.AccessControl.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Claims.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Algorithms.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Cng.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Csp.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Encoding.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.OpenSsl.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Primitives.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.X509Certificates.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Cryptography.Xml.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Principal.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.Principal.Windows.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Security.SecureString.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.ServiceModel.Web.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.ServiceProcess.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Text.Encoding.CodePages.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Text.Encoding.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Text.Encoding.Extensions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Text.RegularExpressions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Channels.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Overlapped.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Tasks.Dataflow.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Tasks.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Tasks.Extensions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Tasks.Parallel.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Thread.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.ThreadPool.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Threading.Timer.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Transactions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Transactions.Local.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.ValueTuple.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Web.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Web.HttpUtility.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Windows.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.Linq.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.ReaderWriter.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.Serialization.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.XDocument.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.XmlDocument.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.XmlSerializer.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.XPath.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/refs/WindowsBase.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Azure.Core.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Azure.Identity.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Humanizer.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/MessagePack.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/MessagePack.Annotations.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Build.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Build.Framework.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.NET.StringTools.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Mono.TextTemplating.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/Newtonsoft.Json.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/NuGet.Common.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/NuGet.Configuration.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/NuGet.Frameworks.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/NuGet.Packaging.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/NuGet.Protocol.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/NuGet.Versioning.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.CodeDom.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.Composition.Convention.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.Composition.Hosting.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.Composition.Runtime.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.Drawing.Common.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.Memory.Data.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.Reflection.MetadataLoadContext.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.Runtime.Caching.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.Security.Permissions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.Text.Json.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/System.Windows.Extensions.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/app/BulkyBookWeb/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/app/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.csproj.AssemblyReference.cache
+/app/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig
+/app/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.AssemblyInfoInputs.cache
+/app/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.AssemblyInfo.cs
+/app/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.csproj.CoreCompileInputs.cache
+/app/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
+/app/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cache
+/app/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.RazorAssemblyInfo.cache
+/app/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.RazorAssemblyInfo.cs
+/app/BulkyBookWeb/obj/Debug/net6.0/staticwebassets/msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props
+/app/BulkyBookWeb/obj/Debug/net6.0/staticwebassets/msbuild.build.BulkyBookWeb.props
+/app/BulkyBookWeb/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BulkyBookWeb.props
+/app/BulkyBookWeb/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BulkyBookWeb.props
+/app/BulkyBookWeb/obj/Debug/net6.0/staticwebassets.pack.json
+/app/BulkyBookWeb/obj/Debug/net6.0/staticwebassets.build.json
+/app/BulkyBookWeb/obj/Debug/net6.0/staticwebassets.development.json
+/app/BulkyBookWeb/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/app/BulkyBookWeb/obj/Debug/net6.0/scopedcss/bundle/BulkyBookWeb.styles.css
+/app/BulkyBookWeb/obj/Debug/net6.0/scopedcss/projectbundle/BulkyBookWeb.bundle.scp.css
+/app/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.csproj.CopyComplete
+/app/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.dll
+/app/BulkyBookWeb/obj/Debug/net6.0/refint/BulkyBookWeb.dll
+/app/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.pdb
+/app/BulkyBookWeb/obj/Debug/net6.0/BulkyBookWeb.genruntimeconfig.cache
+/app/BulkyBookWeb/obj/Debug/net6.0/ref/BulkyBookWeb.dll

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuJhCHiaM+UOjyg98QdbZXQAAAAACAAAAAAADZgAAwAAAABAAAABzqbO1Gd9j2MoOLp74tYTwAAAAAASAAACgAAAAEAAAABf7513TL5t5gZpqkA41BACAAAAAKjwYJbNQ8WzUPBLu/cr8ICL43bqAxDzrjn7uSPIHX5+FUy/9re9iuV9aBETpmre2i7nJNQ0D6aB3QVWCyJ6vywNK4/Pwh8ijeMv7J9M8jfGjhRWGrwdqbeh3noAeWezPMfTgXAnNHFWX7vsopIdkHQCFrOSeeYCr9ZbRU1u9T6QUAAAAc2yjtQXgJWIAidAPWngqKISHsLo=</EncryptedPassword>
+    <History>True|2023-03-19T14:56:05.3717390Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:yvannoumeserver.database.windows.net,1433%3bInitial Catalog=dotnetmastery_dn%3bPersist Security Info=False%3bUser ID=admin-sql%3bPassword=santa200%40%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="BulkyBookWeb.Data.ApplicationDbContext">
+      <Value>Server=tcp:yvannoumeserver.database.windows.net,1433%3bInitial Catalog=dotnetmastery_dn%3bPersist Security Info=False%3bUser ID=admin-sql%3bPassword=santa200%40%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

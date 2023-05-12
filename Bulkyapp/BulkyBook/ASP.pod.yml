@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+    name: bulkybookweb
+    labels:
+        app: asp
+        rel: stable
+spec:
+    containers:
+    - name: bulkybookweb
+      image: yvannoumeb/bulkybookweb
+      ports:
+      - containerPort: 80
+      resources:
+        

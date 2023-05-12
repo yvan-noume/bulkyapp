@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: bulkybookweb
+    labels:
+        app: bulkybookweb
+spec: 
+    replicas: 4
+    selector:
+        matchLabels:
+            app: bulkybookweb
+    template:
+        metadata:
+            labels:
+                app: bulkybookweb
+        spec:
+            containers:
+            - name: bulkybookweb
+              image: yvannoume.azurecr.io/bulkybookweb
+              ports:
+              - containerPort: 80
+              resources:
+                limits:
+                    memory: "328Mi"
+                    cpu: "200m"
